@@ -409,6 +409,7 @@ div#map {
 }
 /*--------------------------------------------gif loading bar in github - info*/
 .gif {
+    
     border-radius: 50px;
     margin: 15px 0 15px 0;
     opacity: 0.8;
